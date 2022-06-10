@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '04699040d8dd4a3fbf6c1de94b4be58c',
+  rootNotionPageId: 'c8786a946d60481ea117d859841b8b08',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'qiQWQwww',
-  domain: 'https://www.notion.so/FPGA-04699040d8dd4a3fbf6c1de94b4be58c',
+  domain: 'https://www.notion.so/qi-notebook-c8786a946d60481ea117d859841b8b08',
   author: 'qi',
 
   // open graph metadata (optional)
